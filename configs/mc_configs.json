@@ -1,0 +1,17 @@
+{
+  "default_params": {
+    "learning_rate": 0.1,
+    "discount_factor": 0.98,
+    "epsilon": 0.2
+  },
+  "high_exploration": {
+    "learning_rate": 0.1,
+    "discount_factor": 0.98,
+    "epsilon": 0.5
+  },
+  "low_discount_factor": {
+    "learning_rate": 0.1,
+    "discount_factor": 0.85,
+    "epsilon": 0.1
+  }
+}
